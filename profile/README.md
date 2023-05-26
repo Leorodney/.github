@@ -4,7 +4,7 @@
 </p>
 -->
 <h1 align="center">LEORODNEY</h1>
-<p align="center">AI Image Generator</p>
+<p align="center">MERN Stack & AI, Image Generator Platform</p>
 <img align="center" src="https://user-images.githubusercontent.com/95445743/235258380-17fc76f8-eddc-4e5c-8bc5-a51407ca0093.png" alt="Front Cover"/>
 <p>
 "Leorodney" is a GitHub organization that houses a unique MERN stack web application designed for creating stunning images based on user prompts. With an intuitive interface, users can input prompts and watch as the app generates beautiful images, making it the perfect tool for artists, designers, and enthusiasts alike.
